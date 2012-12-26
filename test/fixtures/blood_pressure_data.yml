@@ -4,8 +4,13 @@
 # model remove the '{}' from the fixture names and add the columns immediately
 # below each fixture, per the syntax in the comments below
 #
-one: {}
+one:
+  date: 25/12/2012
+  resting_heart_rate: 52
+  
 # column: value
 #
-two: {}
-#  column: value
+two:
+  date: 26/12/2012
+  resting_heart_rate: 51
+  #  column: value
